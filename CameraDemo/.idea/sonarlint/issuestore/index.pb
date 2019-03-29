@@ -1,0 +1,25 @@
+
+[
++app/src/main/res/layout/activity_camera.xml,4\b\4b92cbe465409761b8eb8c1cc7f4f5c8db8699df
+i
+9app/src/main/res/drawable/ic_switch_camera_black_24dp.xml,d\e\de89f13283d9db0bcb52401608a8b606c4735b69
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+d
+4app/src/main/res/drawable/ic_flash_on_black_24dp.xml,1\a\1aca85dfaeb0239e59eb522f2cf3e209af8d02c7
+d
+4app/src/main/res/drawable/record_button_selector.xml,7\f\7fc6df453cdec90b83c48016eb5755b50054a4a7
+V
+&app/src/main/res/drawable/ic_photo.xml,7\3\736c26b3dbab836cca81c2d334bb13ffb1438b3a
+d
+4app/src/main/res/drawable/ic_launcher_background.xml,4\9\49845c622cb06d895975c7b1e3f943e320bce688
+l
+<app/src/main/java/com/promact/camerademo/CameraActivity.java,8\6\869270a97e7ac046794b0fa8522cb915446a01a6
+V
+&app/src/main/res/drawable/ic_video.xml,b\a\baa2ff5b77d510e757545812be940707221b15d6
+W
+'app/src/main/res/drawable/ic_switch.xml,9\7\976720b2cba774866b20a09c4f1b538599df3422
+t
+Dapp/src/main/java/com/promact/camerademo/PicturePreviewActivity.java,b\5\b54773f57c5494ee931e6595621b57b3918646ab
+h
+8app/src/main/java/com/promact/camerademo/ImageModel.java,7\6\769b27b309f638eb82c1b7ec504838188a295754

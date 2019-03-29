@@ -1,0 +1,30 @@
+
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(æò˜Èýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šÎ¯‚üÿÿÿÿ
+Ssquid:S1068"9Remove this unused "transparentOverlayTop" private field.(ü£¬ýûÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(¡Œé
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Ysquid:UnusedPrivateMethod"6Remove this unused private "readBytesFromFile" method.(²öà‰
+_squid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(¹œ›Ú
+Gsquid:S1905"-Remove this unnecessary cast to "CameraView".(û™ú¡ûÿÿÿÿ
+{squid:S1450"aRemove the "transperentOverlay" field and declare it as a local variable in the relevant methods.(ê‘Ìªùÿÿÿÿ
+msquid:S1450"XRemove the "recordBtn" field and declare it as a local variable in the relevant methods.(Ó° ž
+Wsquid:S1854"=Remove this useless assignment to local variable "imagePath".(ÑÎšùýÿÿÿÿ
+usquid:S1450"[Remove the "mCaptureTime" field and declare it as a local variable in the relevant methods.(Øé¬Šûÿÿÿÿ
+Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Jsquid:S1068"0Remove this unused "mCaptureTime" private field.(Øé¬Šûÿÿÿÿ
+Ksquid:S1068"6Remove this unused "mCaptureNativeSize" private field.(œ”™„
+wsquid:S1450"]Remove the "cameraSwitchIv" field and declare it as a local variable in the relevant methods.(áäšÑÿÿÿÿÿ
+vsquid:S1450"aRemove the "mCaptureNativeSize" field and declare it as a local variable in the relevant methods.(œ”™„
+~squid:S1450"dRemove the "transparentOverlayTop" field and declare it as a local variable in the relevant methods.(ü£¬ýûÿÿÿÿ
+Ksquid:S1481"1Remove this unused "callbackTime" local variable.(Å¯õ’ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êŽÄ—
+Psquid:S1068"6Remove this unused "transperentOverlay" private field.(ê‘Ìªùÿÿÿÿ
+Xsquid:UselessImportCheck"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ
+Hsquid:S1481".Remove this unused "imagePath" local variable.(ÑÎšùýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+squid:S1450"gRemove the "bottomTransperentOverlay" field and declare it as a local variable in the relevant methods.(ªÐ„Æþÿÿÿÿ
+Zsquid:S1854"@Remove this useless assignment to local variable "callbackTime".(Å¯õ’ýÿÿÿÿ
+Vsquid:S1068"<Remove this unused "bottomTransperentOverlay" private field.(ªÐ„Æþÿÿÿÿ
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

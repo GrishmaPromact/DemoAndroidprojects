@@ -1,0 +1,14 @@
+
+jsquid:S1450"URemove the "doneIV" field and declare it as a local variable in the relevant methods.(Ÿ´Ø­
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä½ð‰
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×€ ˜
+~squid:S1450"dRemove the "transparentOverlayTop" field and declare it as a local variable in the relevant methods.(ü£¬ýûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çðžùÿÿÿÿ
+Nsquid:S1854"9Remove this useless assignment to local variable "delay".(Ýß–ý
+csquid:UnusedPrivateMethod"@Remove this unused private "getApproximateFileMegabytes" method.(Þæ¦À
+Tsquid:S1854"?Remove this useless assignment to local variable "nativeRatio".(ùØ•ü
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™Æªè
+^squid:HiddenFieldCheck"9Rename "image" which hides the field declared at line 26.(°üþ½ÿÿÿÿÿ
+Esquid:S1481"0Remove this unused "nativeRatio" local variable.(ùØ•ü
+Ssquid:S1068"9Remove this unused "transparentOverlayTop" private field.(ü£¬ýûÿÿÿÿ
+?squid:S1481"*Remove this unused "delay" local variable.(Ýß–ý
